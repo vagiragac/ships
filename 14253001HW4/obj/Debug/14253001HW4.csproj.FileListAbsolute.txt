@@ -1,0 +1,15 @@
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW4\14253001HW4\bin\Debug\14253001HW4.exe.config
+C:\Users\veli\documents\visual studio 2015\Projects\14253001HW4\14253001HW4\bin\Debug\14253001HW4.exe
+C:\Users\veli\documents\visual studio 2015\Projects\14253001HW4\14253001HW4\bin\Debug\14253001HW4.pdb
+C:\Users\veli\documents\visual studio 2015\Projects\14253001HW4\14253001HW4\obj\Debug\14253001HW4.csprojResolveAssemblyReference.cache
+C:\Users\veli\documents\visual studio 2015\Projects\14253001HW4\14253001HW4\obj\Debug\14253001HW4.exe
+C:\Users\veli\documents\visual studio 2015\Projects\14253001HW4\14253001HW4\obj\Debug\14253001HW4.pdb
+C:\Users\veli\Desktop\c# notları\14253001HW4\14253001HW4\14253001HW4\bin\Debug\14253001HW4.exe.config
+C:\Users\veli\Desktop\c# notları\14253001HW4\14253001HW4\14253001HW4\obj\Debug\14253001HW4.exe
+C:\Users\veli\Desktop\c# notları\14253001HW4\14253001HW4\14253001HW4\obj\Debug\14253001HW4.pdb
+C:\Users\veli\Desktop\c# notları\14253001HW4\14253001HW4\14253001HW4\bin\Debug\14253001HW4.exe
+C:\Users\veli\Desktop\c# notları\14253001HW4\14253001HW4\14253001HW4\bin\Debug\14253001HW4.pdb
+C:\Users\veli\Desktop\c# notları\14253001HW4\14253001HW4\14253001HW4\obj\Debug\14253001HW4.csprojResolveAssemblyReference.cache
+C:\Users\madib\OneDrive\Masaüstü\c# notları\14253001HW4\14253001HW4\14253001HW4\bin\Debug\14253001HW4.exe.config
+C:\Users\madib\OneDrive\Masaüstü\c# notları\14253001HW4\14253001HW4\14253001HW4\obj\Debug\14253001HW4.exe
+C:\Users\madib\OneDrive\Masaüstü\c# notları\14253001HW4\14253001HW4\14253001HW4\obj\Debug\14253001HW4.pdb
